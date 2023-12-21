@@ -1,4 +1,4 @@
-module jakubbujny/horcrux/v3
+module github.com/jakubbujny/horcrux/v3
 
 go 1.21
 
