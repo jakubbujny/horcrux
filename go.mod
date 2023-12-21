@@ -1,4 +1,4 @@
-module github.com/strangelove-ventures/horcrux/v3
+module jakubbujny/horcrux/v3
 
 go 1.21
 
